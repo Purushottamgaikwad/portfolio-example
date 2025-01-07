@@ -29,4 +29,3 @@ The image-hovering effect in your portfolio adds an interactive and dynamic touc
 
 The combination of responsiveness and GSAP-powered animations ensures that your portfolio not only looks great but also delivers a consistent and engaging experience across all devices. The attention to detail in hover effects reflects your creativity and technical expertise.
 
-Let me know if you'd like to include a code snippet or additional customization tips!
